@@ -1,0 +1,1 @@
+Go exercises from gobyexample.com
